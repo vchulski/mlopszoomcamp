@@ -1,2 +1,2 @@
 # mlzoomcamp
-My solutions for mlzoomcamp (spring 2023)
+My solutions for mlopszoomcamp (spring 2023)
