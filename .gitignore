@@ -166,6 +166,7 @@ data/
 output
 
 # mlflow output
+mlflow.db
 mlruns/
 
 # vscode
@@ -173,3 +174,9 @@ mlruns/
 
 # apple ds_store
 .DS_Store
+
+
+# wandb custom 
+week_2/output_wandb
+week_2/wandb/wandb
+week_2/wandb/artifacts
